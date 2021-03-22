@@ -1,3 +1,4 @@
+
 # Finding Local max/min in non-convex function with Visualization using Pytorch
 
 
@@ -11,10 +12,5 @@
 
 ## Local max/min in 2D
 
-<video style="width:100%" controls>
-  <source src="https://user-images.githubusercontent.com/27954949/111935383-5c65d280-8a91-11eb-8b80-b0728950d8ed.mp4" type="video/mp4">
-Your browser does not support the video tag.
-</video>
-
-
+![moving](https://user-images.githubusercontent.com/27954949/111938347-bbc6e100-8a97-11eb-8536-a6a91a7b9f5c.gif)
 
