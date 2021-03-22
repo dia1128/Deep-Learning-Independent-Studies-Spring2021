@@ -10,6 +10,6 @@
 
 
 ## Local max/min in 2D
-<video src="https://user-images.githubusercontent.com/27954949/111935383-5c65d280-8a91-11eb-8b80-b0728950d8ed.mp4" width="320" height="200" controls preload></video>
+https://user-images.githubusercontent.com/27954949/111935383-5c65d280-8a91-11eb-8b80-b0728950d8ed.mp4
 
 
