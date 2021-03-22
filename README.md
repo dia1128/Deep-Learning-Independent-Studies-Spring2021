@@ -1,5 +1,5 @@
 
-# Finding Local max/min in non-convex function with Visualization using Pytorch
+# Finding Local max/min in non-convex function with Visualization Using Pytorch
 
 
 ## Problems
