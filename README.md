@@ -10,6 +10,11 @@
 
 
 ## Local max/min in 2D
-https://user-images.githubusercontent.com/27954949/111935383-5c65d280-8a91-11eb-8b80-b0728950d8ed.mp4
+<div class="myvideo">
+   <video  style="display:block; width:100%; height:auto;" autoplay controls loop="loop">
+       <source src="https://user-images.githubusercontent.com/27954949/111935383-5c65d280-8a91-11eb-8b80-b0728950d8ed.mp4" type="video/mp4" />
+  
+   </video>
+</div
 
 
